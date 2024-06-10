@@ -1,46 +1,23 @@
 # Privacy Policy
 
-**Effective Date:** [Date]
+**Effective Date:** [6/10/2024]
 
-## Information We Collect
+## Information Collection and Use
 
-We may collect the following types of information:
-- Personal Information: [Describe any personal information you collect, if any].
-- Usage Data: Information about how the app is used, including time spent on different features.
-- Device Information: Details about the device, such as device type, operating system, and unique device identifiers.
-
-## How We Use Your Information
-
-We use the information we collect to:
-- Provide and maintain the app’s functionality.
-- Improve and personalize user experience.
-- Conduct analytics and understand app usage.
+Our watch face app does not collect, use, or share any personal information, data, or device information from users. We are committed to protecting your privacy and ensuring that your experience with our app is secure and confidential.
 
 ## Data Sharing
 
-We do not share your personal information with third parties except:
-- To comply with legal obligations.
-- With service providers who assist us in app operations, under strict confidentiality agreements.
-- In the event of a business transfer, such as a merger or acquisition.
+Since our watch face app does not collect any data, we do not share any personal information with third parties.
 
 ## Data Security
 
-We implement a variety of security measures to maintain the safety of your personal information. Your data is protected by encryption and secure servers.
-
-## Your Rights
-
-You have the right to:
-- Access your personal information.
-- Request correction or deletion of your personal information.
-- Opt-out of certain data collection practices.
-
-## Contact Us
-
-If you have any questions about this privacy policy, please contact us at:
-[Your Contact Information]
+As we do not collect any personal data, there are no security measures required for data protection. Your privacy is fully maintained.
 
 ## Changes to This Privacy Policy
 
-We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
+We may update our privacy policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
 
-**Effective Date:** [Date]
+**Effective Date:** [6/10/2024]
+
+
