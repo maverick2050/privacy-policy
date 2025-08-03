@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [6/10/2024]
+**Effective Date:** [8/1/2025]
 
 ## Information Collection and Use
 
@@ -18,6 +18,6 @@ As we do not collect any personal data, there are no security measures required 
 
 We may update our privacy policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
 
-**Effective Date:** [6/10/2024]
+**Effective Date:** [8/1/2025]
 
 
